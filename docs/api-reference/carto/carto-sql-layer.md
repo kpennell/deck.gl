@@ -1,6 +1,4 @@
-import {CartoSQLLayerDemo} from 'website-components/doc-demos/geo-layers';
 
-<CartoSQLLayerDemo />
 
 # CartoSQLLayer
 

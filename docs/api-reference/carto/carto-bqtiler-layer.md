@@ -1,6 +1,4 @@
-import {CartoBQTilerLayerDemo} from 'website-components/doc-demos/geo-layers';
 
-<CartoBQTilerLayerDemo />
 
 # CartoBQTilerLayer
 
